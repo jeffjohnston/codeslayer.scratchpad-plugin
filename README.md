@@ -1,0 +1,1 @@
+codeslayer.scratchpad-plugin
